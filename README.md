@@ -1,1 +1,1 @@
-# bulk-apk
+# bulk-apk-to-jar
